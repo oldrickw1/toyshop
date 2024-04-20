@@ -46,6 +46,10 @@ section {
     padding: 20px;
 }
 
+section button {
+    max-width: 90px;
+    border-radius: 4px;
+}
 
 footer {
     background-color: grey;
