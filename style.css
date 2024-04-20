@@ -20,6 +20,10 @@ h1, p {
     color: #333333;
 }
 
+nav h1 {
+    color: purple;
+}
+
 nav {
     padding: 0 150px;
     justify-content: space-between;
