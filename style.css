@@ -9,16 +9,6 @@ body {
     min-height: 100vh;
  
 }
-.container {
-    max-width: 800px;
-   /* margin: 0 auto;*/
-    padding: 20px;
-    background-color: #ffffff;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-h1, p {
-    color: #333333;
-}
 
 nav {
     padding: 0 150px;
@@ -26,6 +16,10 @@ nav {
     background-color: grey;
     height: 130px;
     align-items: center;
+}
+
+nav  h1 {
+    color: white;
 }
 
 a {
